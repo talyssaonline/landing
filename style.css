@@ -3,7 +3,7 @@ body {
   background-position: center;
   background-repeat: none;
   background-size: auto;
-  font-family: monospace;
+  font-family: sans-serif;
   font-style: oblique;
   background-color: white;
   max-width: 100%;
@@ -28,7 +28,7 @@ header {
 h1 {
   font-size: 34px;
   color: black;
-  font-family: monospace;
+  font-family: sans-serif;
   font-style: oblique;
 }
 
