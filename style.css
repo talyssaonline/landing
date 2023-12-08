@@ -26,7 +26,7 @@ header {
 }
 
 h1 {
-  font-size: 34px;
+  font-size: 30px;
   color: black;
   font-family: sans-serif;
   font-style: oblique;
@@ -46,11 +46,11 @@ p {
 .mainbox {
   /*background-color: rgba(235, 252, 255, 0.3);*/
   border-radius: 10px;
-  padding: 10px;
+  padding: 20px;
   width: 80%;
   height: auto;
   max-width: 400px;
-  margin-top: 10px;
+  margin-top: 90px;
   overflow-x: hidden;
 }
 
